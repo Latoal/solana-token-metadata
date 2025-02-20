@@ -1,0 +1,20 @@
+{
+  "name": "Gatitis",
+  "symbol": "GALA",
+  "description": "Test token representing the Gatitis ecosystem.",
+  "image": "https://deepai.org/gallery-item/c357609b4a9c4514b1eff1bfb1ed891e/a-futuristic-cybernetic-cat-logo-glowing-neon-eyes-bl.jpg.html",
+  "external_url": "",
+  "attributes": [
+    { "trait_type": "Category", "value": "Experimental" },
+    { "trait_type": "Use Case", "value": "Digital Asset" }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "YOUR_WALLET_ADDRESS",
+        "share": 100
+      }
+    ],
+    "description": "Test token created by Gala Group."
+  }
+}
