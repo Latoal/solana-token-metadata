@@ -1,8 +1,8 @@
 {
   "name": "Lachis",
   "symbol": "LCH",
-  "description": "Test token representing the Lachis ecosystem.",
-  "image": "https://deepai.org/gallery-item/9fbbaf0aa85e4e69b562190df26df415/a-cute-and-friendly-beetroot-character-logo-smiling-f.jpg.html",
+  "description": "Experimental token representing the Lachis ecosystem.",
+  "image": "https://example.com/lachis-image.jpg",
   "external_url": "",
   "attributes": [
     { "trait_type": "Category", "value": "Experimental" },
@@ -11,10 +11,10 @@
   "properties": {
     "creators": [
       {
-        "address": "YOUR_WALLET_ADDRESS",
+        "address": "GhY8ogvKkKGSPeYYBViDA1PAL6tMf8eGGi2FHw8rjQp8",
         "share": 100
       }
     ],
-    "description": "Test token created by Gala Group."
+    "description": "Test token created by Lachis Group."
   }
 }
